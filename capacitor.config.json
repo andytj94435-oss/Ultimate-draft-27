@@ -1,0 +1,6 @@
+{
+  "appId": "com.ultimatedraft27.game",
+  "appName": "Ultimate Draft 27",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
